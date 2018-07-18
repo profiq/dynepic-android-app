@@ -1,0 +1,13 @@
+{
+  "client_id": "iok-cid-d28955b4e397d26674aea86dcb3e6011c9515f13ce65b60d",
+  "client_secret": "iok-cse-fc8120f7e84a1e2706130ce22321ae7009194a5209fc8d41",
+  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
+  "authorization_scope": "profile",
+  "discovery_uri": "",
+  "authorization_endpoint_uri": "https://sandbox.iokids.net/oauth/signin",
+  "token_endpoint_uri": "https://sandbox.iokids.net/oauth/token",
+  "registration_endpoint_uri": "https://sandbox.iokids.net",
+  "user_info_endpoint_uri": "https://sandbox.iokids.net/user/v1/my/profile",
+  "profile_picture_endpoint_uri": "https://sandbox.iokids.net/user/v1/my/profile/picture",
+  "https_required": true
+}
