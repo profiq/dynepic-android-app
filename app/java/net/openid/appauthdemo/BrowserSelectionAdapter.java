@@ -101,7 +101,7 @@ public final class BrowserSelectionAdapter extends BaseAdapter {
         ImageView iconView = (ImageView) convertView.findViewById(R.id.browser_icon);
         if (info == null) {
             labelView.setText(R.string.browser_appauth_default_label);
-            iconView.setImageResource(R.drawable.appauth_96dp);
+            iconView.setImageResource(R.drawable.ic_profiqlogo);
         } else {
             CharSequence label = info.mLabel;
             if (info.mDescriptor.useCustomTab) {

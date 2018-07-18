@@ -5,14 +5,14 @@ apply from: '../config/keystore.gradle'
 
 android {
     defaultConfig {
-        applicationId 'net.openid.appauthdemo'
-        project.archivesBaseName = 'appauth-demoapp'
+        applicationId 'com.profiq.openid.portal'
+        project.archivesBaseName = 'profiq-openid-portal-demo'
         vectorDrawables.useSupportLibrary = true
 
         // Make sure this is consistent with the redirect URI used in res/raw/auth_config.json,
         // or specify additional redirect URIs in AndroidManifest.xml
         manifestPlaceholders = [
-                'appAuthRedirectScheme': 'net.openid.appauthdemo'
+                'appAuthRedirectScheme': 'com.profiq.openid.portal'
         ]
     }
 

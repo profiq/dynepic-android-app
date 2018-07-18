@@ -245,6 +245,7 @@ public class TokenActivity extends AppCompatActivity {
                 if (userInfo.has("lastName")) {
                     name += " " + userInfo.getString("lastName");
                 }
+                ((TextView) findViewById(R.id.userinfo_name)).setText(name);
 
                 String username = "";
                 if (userInfo.has("handle")) {
@@ -270,6 +271,7 @@ public class TokenActivity extends AppCompatActivity {
                 }
                 ((TextView) findViewById(R.id.country_value)).setText(country);
 
+                // Need more work on this one
 //                if (userInfo.has("profilePic")) {
 //                    GlideApp.with(TokenActivity.this)
 //                            .load((mConfiguration.mProfilePictureEndpointUri().toString()))
