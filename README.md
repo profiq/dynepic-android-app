@@ -11,7 +11,8 @@ raw protocol flows, convenience methods are available to assist with common
 tasks like performing an action with fresh tokens.
 
 # profiq OpenID PORTAL demo app for Android
-  - for communication with [Dynepic playPORTAL](https://partner.iokids.net) through [Dynepic playPORTAL API](https://github.com/Dynepic/api-documentation)
+ ![playPORTAL icon](/readmeGraphic/playPORTAL.png "playPORTAL icon")
+ - for communication with [Dynepic playPORTAL](https://partner.iokids.net) through [Dynepic playPORTAL API](https://github.com/Dynepic/api-documentation)
   
 This app demonstrates the AppAuth library by performing an authorization code
 flow with an authorization service Dynepic playPORTAL. The configuration contained in `res/raw/auth_config.json`
