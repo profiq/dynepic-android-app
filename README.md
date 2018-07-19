@@ -1,4 +1,4 @@
-![profiq OpenID PORTAL](/readmeGraphic/profiqLogo.svg "profiq OpenID PORTAL")
+![profiq OpenID PORTAL](/readmeGraphic/profiqLogo.png "profiq OpenID PORTAL")
 
 [Based on Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://openid.github.io/AppAuth-Android)
 AppAuth for Android is a client SDK for communicating with
