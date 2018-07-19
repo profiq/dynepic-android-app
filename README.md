@@ -1,4 +1,4 @@
-![profiq OpenID PORTAL](/readmeGraphic/profiqLogo.svg?raw=true "profiq OpenID PORTAL")
+![profiq OpenID PORTAL](/readmeGraphic/profiqLogo.svg "profiq OpenID PORTAL")
 
 [Based on Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.](https://openid.github.io/AppAuth-Android)
 AppAuth for Android is a client SDK for communicating with
@@ -60,10 +60,10 @@ The configuration file MUST contain a JSON object. The following properties can 
   
 ## Screenshots
 
-![profiq OpenID PORTAL icon](/readmeGraphic/Screenshot_2018-07-18-18-14-37-611_com.miui.securitycenter?raw=true "profiq OpenID icon")
-![profiq OpenID PORTAL start](/readmeGraphic/Screenshot_2018-07-18-18-02-56-042_net.openid.appauthdemo?raw=true "profiq OpenID start")
-![profiq OpenID PORTAL login](/readmeGraphic/Screenshot_2018-07-18-18-03-03-838_com.chrome.beta?raw=true "profiq OpenID login")
-![profiq OpenID PORTAL profile](/readmeGraphic/Screenshot_2018-07-18-18-03-17-598_net.openid.appauthdemo?raw=true "profiq OpenID profile")
+![profiq OpenID PORTAL icon](/readmeGraphic/Screenshot_2018-07-18-18-14-37-611_com.miui.securitycenter.png "profiq OpenID icon")
+![profiq OpenID PORTAL start](/readmeGraphic/Screenshot_2018-07-18-18-02-56-042_net.openid.appauthdemo.png "profiq OpenID start")
+![profiq OpenID PORTAL login](/readmeGraphic/Screenshot_2018-07-18-18-03-03-838_com.chrome.beta.png "profiq OpenID login")
+![profiq OpenID PORTAL profile](/readmeGraphic/Screenshot_2018-07-18-18-03-17-598_net.openid.appauthdemo.png "profiq OpenID profile")
 
 ## Requirements
 
