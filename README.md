@@ -12,7 +12,7 @@ tasks like performing an action with fresh tokens.
 
 # profiq OpenID PORTAL demo app for Android
  ![playPORTAL icon](/readmeGraphic/playPORTAL.png "playPORTAL icon")
- - for communication with [Dynepic playPORTAL](https://partner.iokids.net) through [Dynepic playPORTAL API](https://github.com/Dynepic/api-documentation)
+ - For communication with [Dynepic playPORTAL](https://www.playportal.io/) through [Dynepic playPORTAL API](https://github.com/Dynepic/api-documentation)
   
 This app demonstrates the AppAuth library by performing an authorization code
 flow with an authorization service Dynepic playPORTAL. The configuration contained in `res/raw/auth_config.json`
